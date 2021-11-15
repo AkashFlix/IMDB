@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hᴏʟᴀ {},
-<b>I'ᴍ Nᴀruᴛᴏ Ꮜzuʍᴀᴋi, I'ᴍ ᴀ Aᴅᴠᴀɴᴄᴇ ғɪʟᴛᴇʀ ʙᴏᴛ. 😎
+I'ᴍ <a href='https://t.me/NarutoFlix_Bot'>Nᴀruᴛᴏ Ꮜzuʍᴀᴋi</a>, I'ᴍ ᴀ Aᴅᴠᴀɴᴄᴇ ғɪʟᴛᴇʀ ʙᴏᴛ. 😎
 
 Jᴜsᴛ Jᴏɪɴ ᴍʏ Gʀᴏᴜᴘ [ @RequestHubFlix ] ᴀɴᴅ ᴡʀɪᴛᴇ ᴏɴʟʏ Mᴏᴠɪᴇ/Sᴇʀɪᴇs Nᴀᴍᴇ ᴛʜᴇɴ sᴇᴇ ᴛʜᴇ Mᴀɢɪᴄ. 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
