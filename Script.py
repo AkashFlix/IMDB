@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """Hᴏʟᴀ {},
 I'ᴍ <a href='https://t.me/NarutoFlix_Bot'>Nᴀruᴛᴏ Ꮜzuʍᴀᴋi</a>, I'ᴍ ᴀ Aᴅᴠᴀɴᴄᴇ ғɪʟᴛᴇʀ ʙᴏᴛ. 😎
 
-Jᴜsᴛ Jᴏɪɴ ᴍʏ Gʀᴏᴜᴘ [ @RequestHubFlix ] ᴀɴᴅ ᴡʀɪᴛᴇ ᴏɴʟʏ Mᴏᴠɪᴇ/Sᴇʀɪᴇs Nᴀᴍᴇ ᴛʜᴇɴ sᴇᴇ ᴛʜᴇ Mᴀɢɪᴄ. 😍"""
+Jᴜsᴛ Jᴏɪɴ ᴍʏ Gʀᴏᴜᴘ [ @RequestHubFlix 💕 ] ᴀɴᴅ ᴡʀɪᴛᴇ ᴏɴʟʏ Mᴏᴠɪᴇ/Sᴇʀɪᴇs Nᴀᴍᴇ ᴛʜᴇɴ sᴇᴇ ᴛʜᴇ Mᴀɢɪᴄ. 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
